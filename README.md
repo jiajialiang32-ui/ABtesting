@@ -44,9 +44,17 @@ Additional optional tools for visualization and reporting:
 ---
 
 ## Visual Evidence
-Include a screenshot of your Seaborn bar chart here once the notebook has been executed and the plot saved.
 
-![A/B Test Results Plot](notebooks/your_saved_plot_image.png)
+<table>
+  <tr>
+    <td align="center"><b>Conversion Rate by Group</b></td>
+    <td align="center"><b>Absolute Lift with 95% CI</b></td>
+  </tr>
+  <tr>
+    <td><img src="notebooks/data/A:B Test Results Plot.png" width="450" alt="Conversion Rate Comparison"></td>
+    <td><img src="notebooks/data/A:B Test Results Plot2.png" width="450" alt="Absolute Lift Confidence Interval"></td>
+  </tr>
+</table>
 
 ---
 
